@@ -1,2 +1,3 @@
 print("hello world")
-print("goodbye cruel world!")
+print("it's a lovely fall day")
+print("having technical difficulties")
